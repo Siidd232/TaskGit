@@ -1,0 +1,7 @@
+Git Stashing: 
+Feature that allows us to temporarily save the changes in the working directory without commiting them. 
+- Used in the scenario when you have to change the current branch but the changes have not been saved. 
+
+
+What is Vim: Text based text editor for unix. 
+
