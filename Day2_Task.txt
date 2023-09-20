@@ -1,0 +1,7 @@
+Git fetch: USed to retrieve changes from a remote repository and update your local repository's reference.
+--prune: used to clean up the references to remote branches which no longer exist on the remote repository. There may be some objects or references which were previously accessed from the git remote repository which can no longer be accessed. These are deleted using the prune command. 
+
+
+Squash: Combining multiple commits into one single commit. Used to simplify the tree structure and remove redundant commits. 
+
+Merge Conflicts: Occurs when we merge branches that have competing commits and git is unable to decide which changes should be incorporated in the final merge. Git is capable of resolving the differences between branches and merge them automatically. 
